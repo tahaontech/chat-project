@@ -1,6 +1,6 @@
 # Chat Project - React and Node.js Chat Engine
 
-![Chat Project Demo](https://example.com/chat-project-demo.gif)
+![Chat Project Demo](https://github.com/tahaontech/chat-project/blob/master/public/nodejs-react-demo.gif)
 
 This project is a chat application built using React and Node.js with the Chat Engine library. It allows users to communicate with each other in real-time through a chat interface. This README file provides an overview of the project and instructions on how to set it up and run it locally.
 
